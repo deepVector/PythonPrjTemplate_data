@@ -3,4 +3,4 @@ Adapted from:
 
 # Licence
 
-This project and its associated data (excluding external input data located in the folder _dtAcquired_) are licensed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC) license (see _LICENSE.md_).
+This project and its associated data (excluding external input data located in the folder _dtAcquired_) are licensed under the terms of the Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC; see _LICENSE.md_).
